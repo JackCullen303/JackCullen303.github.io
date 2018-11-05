@@ -1,0 +1,32 @@
+#header {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    display: block;
+    background-color: #F2EEEE;
+    height: 50px;
+    width: 100%;
+	font-family: Montserrat;
+}
+
+body {
+    height: 100%;
+    padding-top: 70px; 
+	background-color: #003d66;
+	color: white;
+	font-family: Montserrat;
+}
+
+
+img {
+    border-radius: 50%;
+	border-color:white;
+}
+
+.nav.navbar-nav{
+  background-color:white;
+  border-color:white;
+  color:black;
+  background-repeat: no-repeat;
+  font-family: Montserrat;
+ }
