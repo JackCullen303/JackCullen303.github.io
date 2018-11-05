@@ -18,11 +18,17 @@
 	color:white;
 }
 
+footer {
+	padding-top:50px;
+	margin-bottom:50px;
+}
+
 section {
 	background-color:white;
 	color: #003d66;
 	font-size:200%;
-	padding-top:50px;
+	padding-top:30px;
+	padding-bottom:50px;
 }
 
 section h1{
@@ -39,7 +45,7 @@ body {
 }
 
 
-img {
+header img {
     border-radius: 50%;
 	border-color:white;
 }
