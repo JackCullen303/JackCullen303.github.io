@@ -1,12 +1,33 @@
-#header {
-    position: fixed;
-    left: 0px;
-    right: 0px;
-    display: block;
-    background-color: #F2EEEE;
-    height: 50px;
-    width: 100%;
-	font-family: Montserrat;
+#title {
+	font-size:200%;
+	margin-bottom:70px;
+}
+
+#myName {
+	font-size: 500%;
+	font-weight:bold;
+}
+
+#jobtitle {
+	font-size:150%;
+	line-height:80%;
+}
+
+#projecthistory {
+	background-color:#003d66;
+	color:white;
+}
+
+section {
+	background-color:white;
+	color: #003d66;
+	font-size:200%;
+	padding-top:50px;
+}
+
+section h1{
+	font-size:150%;
+	text-decoration:underline;
 }
 
 body {
